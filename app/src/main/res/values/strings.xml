@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Salah Times 2016/2017</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="timezone">Timezone</string>
+    <string name="title_activity_add">Add Location</string>
+    <string name="time">05:13AM</string>
+    <string name="fajr">Fajar</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="zuhar">Zuhar</string>
+    <string name="asar">Asar</string>
+    <string name="sunset">Sunset</string>
+    <string name="magrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="today_date">Today date</string>
+    <string name="calculation_method">Calculation Method</string>
+    <string name="juristic_method">Juristic Method</string>
+    <string name="location">Location</string>
+
+    <string name="jafri">Jafari</string>
+    <string name="karachi">Karachi</string>
+    <string name="isna">ISNA</string>
+    <string name="mwl">Muslim World League</string>
+    <string name="makkah">Makkah</string>
+    <string name="egypt">Egypt</string>
+    <string name="tehran">Tehran</string>
+
+    <string name="shafi">Shafi</string>
+    <string name="hanfi">Hanfi</string>
+
+    <string-array name="duration">
+        <item>Day</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+    </string-array>
+</resources>
